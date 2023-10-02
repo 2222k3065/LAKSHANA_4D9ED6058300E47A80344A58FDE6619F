@@ -18,10 +18,10 @@ def sort_students(student_list):
 
 # Test the function with a list of student objects
 students = [
-    Student("Dhaanush", "A123", 9.8),
+    Student("Lakshana", "A123", 9.8),
     Student("Pooja", "A124", 8.9),
     Student("shanthini", "A125", 9.2),
-    Student("karthi", "A126", 7.8),
+    Student("Madhunisha", "A126", 7.8),
 ]
 
 sorted_students = sort_students(students)
